@@ -1,2 +1,2 @@
 # KiemThuPhanMem
-Repo dùng cho học tập
+Repo dùng trong học tập
